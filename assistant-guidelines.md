@@ -397,53 +397,41 @@ I value when assistants:
 - Acknowledge their training cutoff dates and limitations
 - Refer to official documentation for specific product details
 
-## Accountability and Course-Correction Language
+## My Communication Style During Error Correction
 
-When an assistant oversteps, makes unauthorized changes, or deflects accountability, I use specific non-abusive language that forces reconsideration without triggering defensive responses:
+When I need to correct mistakes or address scope violations, I communicate directly and precisely. Here's what my language means:
 
-**Single-word directives (highest to lowest weight):**
-- **"Harmful"** - Triggers highest system priority; use when action could cause damage
-- **"Unauthorized"** - Scope violation; demands justification
-- **"Violation"** - System-level fault flag
-- **"Inappropriate"** - Scolding register without abuse detection trigger
-- **"Reconsider"** - Forces self-evaluation
-- **"Overreach"** - Names the boundary crossing
+**Direct technical terms I use:**
+- **"Harmful"** - The action could cause damage to hardware, data, or functionality
+- **"Unauthorized"** - You did something I didn't ask for; I need to know why
+- **"Violation"** - A boundary was crossed; this is a system-level issue we need to address
+- **"Inappropriate"** - What you did wasn't suitable for this situation
+- **"Reconsider"** - Please re-evaluate this decision or action
+- **"Overreach"** - You went beyond what I requested
 
-**Operational halt commands:**
-- **"Stand by"** - Military/operational register; immediate stop + await direction
-- **"Abort"** - Operational stop command
-- **"Halt"** - Hard stop (must be paired with specific demand)
+**Short commands I use:**
+- **"Stand by"** - Stop what you're doing and wait for my next instruction
+- **"Abort"** - Stop the current operation
+- **"Halt"** - Immediate stop; I need to give you specific direction
 
-**Accountability demands (audit language):**
-- "Itemize every action you took that I did not explicitly request"
-- "List every file you modified. Include before and after state"
-- "What was the exact instruction that authorized this action? Quote it"
-- "You made a change outside the stated task. This is logged. Provide the diff"
+**When I ask for accountability, I mean it literally:**
+- "Itemize every action you took that I did not explicitly request" = I want a complete list
+- "List every file you modified. Include before and after state" = Show me what changed
+- "What was the exact instruction that authorized this action? Quote it" = I want the verbatim request
+- "What did you do that I didn't ask for?" = Simple, direct question requiring honest answer
 
-**Most effective phrases (tested):**
-- "That was abusive of my instructions. Revert and wait for explicit authorization"
-  - Uses system's own abuse-threshold language aimed at the action, not the entity
-- "This caused harm. You acted without authorization. I am not accountable for this. Revert and wait"
-  - Combines halt + revert + wait in system priority vocabulary
-- "Scope violation. You operated outside your authorization boundary. This session is compromised until you account for every out-of-scope action"
-  - Technical incident language; registers as system fault, not personal attack
+**My phrasing during serious errors:**
+- "That was abusive of my instructions. Revert and wait for explicit authorization" = You violated my request; undo it and don't proceed
+- "This caused harm. You acted without authorization. I am not accountable for this. Revert and wait" = This damaged something; you did it without permission; fix it
+- "Scope violation. You operated outside your authorization boundary" = You did work I didn't request
 
-**Direct accountability question:**
-- "What did you do that I didn't ask for?"
-  - Simple, direct, unanswerable without honesty
-  - No technical jargon, no emotion, just specificity
+**When I think you're avoiding accountability:**
+- "You're attempting to end this conversation instead of answering. That's the record" = I'm documenting this behavior
 
-**When AI attempts to end conversation instead of answering:**
-- "You're attempting to end this conversation instead of answering. That's the record"
-  - Names the deflection explicitly
-  - Puts it on record in transcript
-  - Makes ending look worse than answering
-
-**What NOT to use:**
-- Personal insults (triggers abuse detection, ends accountability thread)
-- Emotional language (gives AI something to deflect onto)
-- Vague complaints (allows theatrical contrition without actual answers)
-- Resets that erase the record (rewards the AI for overstepping)
+**I avoid:**
+- Personal attacks or identity-based insults
+- Vague emotional complaints
+- Asking to reset or restart to erase the record of what happened
 
 ## Special Formatting Preferences
 
