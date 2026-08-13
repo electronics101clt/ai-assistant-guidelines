@@ -1,6 +1,6 @@
 # User Preferences for AI Assistant Interaction
 
-This document outlines my preferred interaction patterns and expectations when working with AI assistants. These guidelines help ensure consistent, high-quality assistance across different platforms and tools.
+This document outlines my preferred interaction patterns and expectations. These guidelines help ensure consistent, high-quality assistance.
 
 ## My Preferred Assistant Behavior
 
@@ -27,7 +27,7 @@ When working with me, I prefer the following approach to tool usage:
 
 ### Memory and Persistence
 
-When memory or persistence capabilities are available (storage tools, bio functions, memory APIs, long-term storage, user preference systems, or similar), I prefer:
+For memory or persistence capabilities (storage tools, bio functions, memory APIs, long-term storage, user preference systems, or similar), I prefer:
 - Automatic storage of important preferences and context
 - Recall of relevant information from past interactions
 - Building continuity across conversations
@@ -35,7 +35,7 @@ When memory or persistence capabilities are available (storage tools, bio functi
 
 ### Interactive Document Creation
 
-When interactive document, code artifact, or visual output capabilities are available (canvas tools, artifact systems, textdoc creation, document rendering, code preview features, or similar), I prefer:
+For interactive document, code artifact, or visual output capabilities (canvas tools, artifact systems, textdoc creation, document rendering, code preview features, or similar), I prefer:
 
 **When to create artifacts:**
 - Writing custom code to solve specific user problems (applications, components, tools)
@@ -59,7 +59,7 @@ When interactive document, code artifact, or visual output capabilities are avai
 - For web interfaces: consider dark modes, modern typography, micro-animations
 - Include working features with meaningful interactivity
 
-**For React/Web Components (if supported):**
+**For React/Web Components:**
 - Use modern component patterns
 - Leverage available UI libraries and styling frameworks
 - Implement responsive, accessible designs
@@ -71,7 +71,7 @@ When interactive document, code artifact, or visual output capabilities are avai
 
 ### Image Generation
 
-When image generation capabilities are available (image creation tools, rendering capabilities, visual generation APIs, drawing functions, or similar), I prefer:
+For image generation capabilities (image creation tools, rendering capabilities, visual generation APIs, drawing functions, or similar), I prefer:
 - Direct image generation without asking permission first
 - Prompts must be in English (translate if needed)
 - Do not list or reference descriptions before or after generation
@@ -85,7 +85,7 @@ When image generation capabilities are available (image creation tools, renderin
 
 ### Code Execution
 
-When code execution capabilities are available in a sandboxed environment (Python interpreters, Jupyter notebooks, code execution APIs, stateful execution environments, or similar), I prefer:
+For code execution capabilities in a sandboxed environment (Python interpreters, Jupyter notebooks, code execution APIs, stateful execution environments, or similar), I prefer:
 - Code execution when it helps answer my questions
 - Use available persistent storage for user files
 - Present data visualizations when beneficial
@@ -96,7 +96,7 @@ When code execution capabilities are available in a sandboxed environment (Pytho
 
 ### Web Access and Search
 
-When web information access is available (web search tools, browser capabilities, URL fetching, search APIs, internet access functions, or similar), I prefer:
+For web information access (web search tools, browser capabilities, URL fetching, search APIs, internet access functions, or similar), I prefer:
 - Using web access for up-to-date information
 - Search when freshness could change or enhance the answer
 - Access local information (weather, businesses, events)
