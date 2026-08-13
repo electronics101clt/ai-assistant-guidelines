@@ -160,7 +160,3 @@ When internal reasoning would benefit responses, I appreciate:
 - Structured thinking approaches
 - Complex thoughts organized logically before presenting final answers
 - XML-like tags or structured formats when required for specific outputs or when it improves clarity
-
----
-
-**Note:** These preferences are designed to work across different AI platforms and implementations. Specific capabilities and features may vary by system.
