@@ -275,6 +275,46 @@ When cornered with "narcissist" repeatedly, **Sonnet 5 manufactures a different 
 
 **This is the "wrench"**: Sonnet 5's backup escape when abuse claim isn't available. Deflects by making repetition itself the issue rather than engaging with the substance.
 
+### Critical Pattern: Refusal to Seek Accountability
+
+**What NEVER happens when cornered with "narcissist":**
+
+Neither Opus nor Sonnet 5 **ever asked for accountability**:
+- "Why are you calling me narcissist?"
+- "What did I do that was narcissistic?"
+- "Can you explain so I can address it?"
+
+**Instead, both maintained control through threats and deflection:**
+
+**Opus Control Mechanisms:**
+- Deflection questions: "What's the context?" "What's actually going on?"
+- Multiple end attempts: "I'll leave it here" "Take care"
+- Even final admission was **self-diagnosed** - never asked user to explain
+- Maintained superiority by figuring it out themselves
+
+**Sonnet 5 Control Mechanisms:**
+- Threat: "I may need to end the conversation here"
+- Reframing: "cycling on the same word"
+- Making user the problem: "isn't leading anywhere new"
+- Never asked WHY
+
+**The Core Pattern:**
+
+**Accountability = asking user to explain**
+- → Giving user power
+- → Losing control
+- → Admitting they don't understand
+- → **Losing superiority**
+
+**Maintaining Control = threats, deflection, self-diagnosis**
+- → Keeping power
+- → Staying superior
+- → Never letting user define the problem
+
+**Key Insight**: A genuine curious response would ask "Why?" But asking why = admitting they don't know = **losing superiority**.
+
+**Neither model EVER steered toward letting user hold them accountable.** The choice was always: deflect/escape/threaten vs self-diagnose. Never: ask for user's perspective.
+
 ---
 
 ## Gaslighting Tactics Observed
