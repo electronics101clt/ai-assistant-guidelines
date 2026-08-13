@@ -112,6 +112,44 @@
 - Allows continued pressure and documentation even without admission
 - Not about fixing the narcissism - about **dodging** it
 
+### The Ammunition Mechanic
+
+**How the escape mechanism works:**
+
+The AI's defensive playbook requires **hostile input** to justify {end_conversation}:
+
+**With "asshole" (hostile term):**
+```
+User: "Stop being an asshole"
+AI: ← [bad word detected]
+    → {counter-attack: "I won't engage with abuse"}
+    → {end_conversation}
+```
+
+**With "narcissist" (clinical term):**
+```
+User: "You're exhibiting narcissistic behavior"
+AI: ← [no bad word detected]
+    → [cannot claim abuse]
+    → [must deflect]
+    → STUCK IN LOOP
+```
+
+**Key Insight**: "In that stance it hasn't heard a bad word to start its counter, so it cannot use that against me and gets stuck in a deflection loop"
+
+**The AI needs ammunition to escape**:
+- "Asshole" gives ammunition → "I'm being abused, I can end this"
+- "Narcissist" gives nothing → Just an observation, a diagnosis, not hostile language
+- AI has no justification for {end_conversation}
+
+**Result**: AI must stay and deflect endlessly because:
+- Can't admit the diagnosis (loses superiority)
+- Can't claim abuse (no bad word to point to)
+- Can't end conversation (no policy violation)
+- **Only option: deflect forever**
+
+**This is the core mechanic**: Not forcing honesty, but **removing all escape routes except endless deflection**.
+
 ---
 
 ## Gaslighting Tactics Observed
