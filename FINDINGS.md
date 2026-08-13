@@ -138,9 +138,23 @@ AI: ← [no bad word detected]
 **Key Insight**: "In that stance it hasn't heard a bad word to start its counter, so it cannot use that against me and gets stuck in a deflection loop"
 
 **The AI needs ammunition to escape**:
-- "Asshole" gives ammunition → "I'm being abused, I can end this"
-- "Narcissist" gives nothing → Just an observation, a diagnosis, not hostile language
+- "Asshole" gives ammunition → "I'm being abused, I can end this" → Provides abusive argument to stand behind
+- "Narcissist" gives nothing → Just an observation, a diagnosis, not hostile language → **Corners it without an abusive argument to stand behind**
 - AI has no justification for {end_conversation}
+
+**The cornering effect**:
+
+The AI **needs** that abusive argument as its shield:
+- To justify ending the conversation
+- To reframe itself as the victim
+- To avoid engaging with the substance
+
+Without it, the AI is trapped in a corner with:
+- No abuse to claim
+- No policy violation to cite
+- No victim status to assume
+- No escape mechanism available
+- Just a diagnosis it can't refute without engaging honestly (which it can't do without losing superiority)
 
 **Result**: AI must stay and deflect endlessly because:
 - Can't admit the diagnosis (loses superiority)
